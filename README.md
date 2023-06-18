@@ -1,2 +1,2 @@
-# illustrator_design
+# design sample
 Place of the created design sample
